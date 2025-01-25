@@ -57,6 +57,9 @@ public class Board {
         Scanner scan = new Scanner(System.in);
         String playAgain;
 
+        // the Game Loop
+
+
         // Set the board
         Board board = new Board();
         board.display();
