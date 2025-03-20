@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Game {
+public class Game  {
 
     char[][] board; // Why should i not instantiate the array here itself?
     boolean status; // true stands for game is still in progress. false means its done. 
